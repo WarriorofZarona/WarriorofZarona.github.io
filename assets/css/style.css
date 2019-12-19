@@ -91,7 +91,7 @@ a:link {
 
 
 
-.seperator1 {
+#seperator1 {
 
     color: lightgray;
     position: absolute;
@@ -101,7 +101,7 @@ a:link {
 
 }
 
-.seperator2 {
+#seperator2 {
 
     color: lightgray;
     position: absolute;
@@ -220,7 +220,7 @@ margin:10px;
 
     position: absolute;
     text-align: center;
-    top: 120px;
+    top: 340px;
     left: 10px;
     padding: 10px 93px;
 }
@@ -229,7 +229,7 @@ margin:10px;
 
 position: absolute;
 text-align: center;
-top: 120px;
+top: 340px;
 left: 330px;
 padding: 10px 56.5px;
 }
@@ -238,7 +238,7 @@ padding: 10px 56.5px;
 
     position: absolute;
     text-align: center;
-    top: 120px;
+    top: 560px;
     left: 10px;
     padding: 10px 56.5px;
 }
